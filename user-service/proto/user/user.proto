@@ -4,6 +4,8 @@ package laracom.user.service;
 
 service userService {
     rpc Create(User) returns (Response) {}
+    rpc Get(User) returns (Response) {}
+    rpc GetAll(Request) returns (Response) {}
 }
 
 message User {
@@ -21,6 +23,8 @@ message User {
     string created_at = 12;
     string updated_at = 13;
 }
+
+message Request {}
 
 message Response {
     User user = 1;
