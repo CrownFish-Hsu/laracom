@@ -10,6 +10,13 @@
   <component name="FavoritesManager">
     <favorites_list name="laracom" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.14/libexec" />
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
@@ -20,6 +27,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
@@ -44,19 +52,23 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="440" y="192" key="#Notifications/0.0.1680.1050@0.0.1680.1050" timestamp="1583806962017" />
-    <state x="468" y="333" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583806443412">
+    <state x="468" y="333" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583854410654">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="468" y="333" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1583806443412" />
+    <state x="468" y="333" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1583854410654" />
     <state x="627" y="288" key="FileChooserDialogImpl" timestamp="1583762882203">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="627" y="288" key="FileChooserDialogImpl/0.0.1680.1050@0.0.1680.1050" timestamp="1583762882203" />
-    <state x="371" y="164" width="1108" height="722" key="SettingsEditor" timestamp="1583823256394">
+    <state x="363" y="267" key="IDE.errors.dialog" timestamp="1583826684785">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="371" y="164" key="SettingsEditor/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1583750136043" />
-    <state x="371" y="164" width="1108" height="722" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1583823256394" />
+    <state x="363" y="267" key="IDE.errors.dialog/0.0.1680.1050@0.0.1680.1050" timestamp="1583826684785" />
+    <state x="371" y="164" width="1108" height="722" key="SettingsEditor" timestamp="1583911665976">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="371" y="164" key="SettingsEditor/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1583911665975" />
+    <state x="371" y="164" width="1108" height="722" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1583853265933" />
     <state x="437" y="140" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583824059481">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
