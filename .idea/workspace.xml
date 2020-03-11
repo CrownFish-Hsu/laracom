@@ -36,6 +36,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="Makefile" />
   </component>
@@ -60,27 +63,32 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="627" y="288" key="FileChooserDialogImpl/0.0.1680.1050@0.0.1680.1050" timestamp="1583762882203" />
-    <state x="363" y="267" key="IDE.errors.dialog" timestamp="1583826684785">
+    <state x="363" y="267" key="IDE.errors.dialog" timestamp="1583920213952">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="363" y="267" key="IDE.errors.dialog/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1583920213952" />
     <state x="363" y="267" key="IDE.errors.dialog/0.0.1680.1050@0.0.1680.1050" timestamp="1583826684785" />
-    <state x="371" y="164" width="1108" height="722" key="SettingsEditor" timestamp="1583916797379">
+    <state x="371" y="164" width="1108" height="722" key="SettingsEditor" timestamp="1583942417594">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="371" y="164" key="SettingsEditor/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1583916797379" />
-    <state x="371" y="164" width="1108" height="722" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1583853265933" />
+    <state x="371" y="164" key="SettingsEditor/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1583922739796" />
+    <state x="371" y="164" key="SettingsEditor/0.0.1680.1050/1680.23.1920.1057@0.0.1680.1050" timestamp="1583919109253" />
+    <state x="371" y="164" width="1108" height="722" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1583942417594" />
     <state x="437" y="140" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583824059481">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="437" y="140" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1583824059481" />
-    <state x="483" y="277" width="984" height="496" key="find.popup" timestamp="1583825965066">
+    <state x="483" y="277" width="984" height="496" key="find.popup" timestamp="1583919328252">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="483" y="277" width="713" height="496" key="find.popup/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1583750272657" />
+    <state x="483" y="277" width="984" height="496" key="find.popup/0.0.1680.1050/1680.23.1920.1057@0.0.1680.1050" timestamp="1583919328252" />
     <state x="483" y="277" width="984" height="496" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1583825965066" />
-    <state x="558" y="363" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1583912504232">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="558" y="363" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1583937886899">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="558" y="363" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1583912504232" />
+    <state x="558" y="363" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1583922660895" />
+    <state x="558" y="363" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1680.1050/1680.23.1920.1057@0.0.1680.1050" timestamp="1583919175253" />
+    <state x="558" y="363" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1583937886899" />
   </component>
 </project>
